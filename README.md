@@ -21,8 +21,5 @@
 
 ![stats synthwave](https://github-readme-stats.vercel.app/api?username=so24def&show_icons=true&theme=synthwave)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=so24def&show_icons=true&locale=en&layout=compact" alt="so24def" /></p>
-
-
 
 
