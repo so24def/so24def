@@ -1,4 +1,4 @@
-![MasterHead](https://astronomy.utexas.edu/images/ASTRO/research/cluster1.png)
+![MasterHead](https://www.dreamdeepsky.ch/wp-content/uploads/2018/01/cropped-NGC6992-1.png)
 <h1 align="center">Hi 👋, I'm Ismail Uzun</h1>
 <h3 align="center">A highly motivated and results driven Math graduate, aspiring to be a Data Scientist</h3>
 
