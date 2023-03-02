@@ -1,10 +1,8 @@
-![MasterHead](https://media.tenor.com/E_QQlTg14OYAAAAd/loop-hyper-loop.gif)
+![MasterHead](https://scitechdaily.com/images/Dark-Outer-Space-Animation.gif)
 <h1 align="center">Hi 👋, I'm Ismail Uzun</h1>
 <h3 align="center">A highly motivated and results driven Math graduate, aspiring to be a Data Scientist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=so24def&label=Profile%20views&color=0e75b6&style=flat" alt="so24def" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=so24def" alt="so24def" /></a> </p>
 
 - :computer: I’m currently learning **Machine Learning, Deep Learning**
 
