@@ -1,4 +1,4 @@
-![MasterHead](https://www.sciencealert.com/images/2022-01/3DSpaceMap_600.gif)
+![MasterHead](https://astronomy.utexas.edu/images/ASTRO/research/cluster1.png)
 <h1 align="center">Hi 👋, I'm Ismail Uzun</h1>
 <h3 align="center">A highly motivated and results driven Math graduate, aspiring to be a Data Scientist</h3>
 
