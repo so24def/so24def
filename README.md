@@ -21,7 +21,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=so24def&show_icons=true&locale=en&layout=compact" alt="so24def" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=so24def&show_icons=true&locale=en" alt="so24def" /></p>
+![stats synthwave](https://github-readme-stats.vercel.app/api?username=so24def&show_icons=true&theme=synthwave)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=so24def&" alt="so24def" /></p>
 
