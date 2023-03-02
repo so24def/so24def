@@ -1,4 +1,4 @@
-![MasterHead](https://scitechdaily.com/images/Dark-Outer-Space-Animation.gif)
+![MasterHead](https://www.sciencealert.com/images/2022-01/3DSpaceMap_600.gif)
 <h1 align="center">Hi 👋, I'm Ismail Uzun</h1>
 <h3 align="center">A highly motivated and results driven Math graduate, aspiring to be a Data Scientist</h3>
 
