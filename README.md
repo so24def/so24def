@@ -2,8 +2,6 @@
 <h1 align="center">Hi, I'm Ismail </h1>
 <h3 align="center">A highly motivated and results driven Math graduate, aspiring to be a Data Scientist</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=so24def&label=Profile%20views&color=0e75b6&style=flat" alt="so24def" /> </p>
-
 - :computer: I’m currently learning **Machine Learning, Deep Learning**
 
 - 📫 How to reach me **so24def@gmail.com**
