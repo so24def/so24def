@@ -4,7 +4,7 @@
 
 - :computer: I’m currently learning **Machine Learning, Deep Learning**
 
-- 📫 [Reach me](so24def@gmail.com)
+- 📫 [Reach me](mailto:so24def@gmail.com)
 
 - 📄 [Resume](https://rxresu.me/so24def/public)
 
