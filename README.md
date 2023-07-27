@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ismail 🙋🏻‍♂️</h1>
-<h2 align="center">Highly motivated and solution oriented Math graduate and a self-learning Data Scientist</h2>
+<h2 align="center">Highly motivated and solution oriented Math graduate, a self-learning Data Scientist</h2>
 
 
 - 💻 I’m currently learning **Machine Learning, Deep Learning**
