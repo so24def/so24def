@@ -4,9 +4,9 @@
 
 - :computer: I’m currently learning **Machine Learning, Deep Learning**
 
-- 📫 How to reach me **so24def@gmail.com**
+- 📫 [Reach me](so24def@gmail.com)
 
-- 📄 Resume [https://rxresu.me/so24def/public](https://rxresu.me/so24def/public)
+- 📄 [Resume](https://rxresu.me/so24def/public)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
