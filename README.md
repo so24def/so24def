@@ -12,7 +12,7 @@
 
 ### Competitions: 
 
-- Predicting the segments of e-commerce customers (Multiclass Classification) - **top10/255** ([Solution]([https://github.com/so24def/top27percent_61th_Kaggle_datathon_energy_distribution_prediction](https://github.com/so24def/top10_Kaggle_datathon_e-commerce_customer_classification))) (_August 2023_)
+- Predicting the segments of e-commerce customers (Multiclass Classification) - **top10/255** ([Solution](https://github.com/so24def/top10_Kaggle_datathon_e-commerce_customer_classification)) (_August 2023_)
 - Predicting the amount of electricity distribution (Time Series Regression) - **61/234 (Top %27)** ([Solution](https://github.com/so24def/top27percent_61th_Kaggle_datathon_energy_distribution_prediction)) (_April 2023_)
 - Predicting whether the bank employees will leave their job or not (Binary Classification) - **14/174 (Top %9)** ([Solution](https://github.com/so24def/top9percent_14th_Kaggle_datathon_employee_churn_prediction)) (_February 2023_)
 - Predicting whether the retail customers join a campaign or not (Binary Classification) - **66/186 (Top %36)** ([Solution](https://github.com/so24def/top36percent_66th_Kaggle_datathon_retail_campaign_prediction)) (_December 2022_)
